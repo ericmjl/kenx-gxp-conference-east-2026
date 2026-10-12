@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T16:11:20-04:00
 duration_seconds: 2041
@@ -15,7 +16,7 @@ session: "'Intended Use' as the Corporate Governance Foundation for GxP AI (day 
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Ben O'Brien on intended use statements for GxP AI implementations
 
 > Recorded 2026-09-15 at 1611 via Plaud. 34:01.

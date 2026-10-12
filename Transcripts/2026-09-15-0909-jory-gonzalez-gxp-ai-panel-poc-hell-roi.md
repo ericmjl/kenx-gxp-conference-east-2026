@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T09:09:33-04:00
 duration_seconds: 2798
@@ -17,7 +18,7 @@ session: "From Idea to Proof of Concept: How Enterprises Pilot AI in GxP (day on
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # GxP AI panel on POC hell, ROI, and human oversight
 
 > Recorded 2026-09-15 at 0909 via Plaud. 46:38.

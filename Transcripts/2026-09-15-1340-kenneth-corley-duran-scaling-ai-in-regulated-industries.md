@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T13:40:44-04:00
 duration_seconds: 1734
@@ -16,7 +17,7 @@ session: "Unite IT, QA, and Manufacturing to Drive Intelligent GxP Operations (d
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Ganesh Muralidharan (transcribed as "Kenneth Corley Duran") on scaling AI in regulated industries
 
 > Recorded 2026-09-15 at 1340 via Plaud. 28:54.

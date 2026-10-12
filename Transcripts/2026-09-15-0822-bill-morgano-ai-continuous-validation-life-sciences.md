@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T08:22:17-04:00
 duration_seconds: 2535
@@ -15,7 +16,7 @@ session: "Keynote: Harness the Power - AI-Driven Decision-Making, Data Integrity
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # William (Bill) Gargano on AI and continuous validation in life sciences
 
 > Recorded 2026-09-15 at 0822 via Plaud. 42:15.

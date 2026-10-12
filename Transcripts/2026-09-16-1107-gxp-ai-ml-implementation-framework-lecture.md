@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T11:07:24-04:00
 duration_seconds: 1540
@@ -14,7 +15,7 @@ session: "10 Steps to Achieving AI Regulatory Compliance (day two, 11:00-11:40)"
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Ten-step framework lecture for GxP-compliant AI/ML implementation
 
 > Recorded 2026-09-16 at 1107 via Plaud. 25:40.

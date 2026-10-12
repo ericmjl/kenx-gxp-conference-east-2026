@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T15:31:08-04:00
 duration_seconds: 263
@@ -14,7 +15,7 @@ affiliation: "Associate Director, IT Security, Risk and Quality, Gilead"
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Abhishek and Eric Ma on LLM-generated acceptance criteria for regulated industries
 
 > Recorded 2026-09-15 at 1531 via Plaud. 04:23.

@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T12:37:44-04:00
 duration_seconds: 1086
@@ -12,7 +13,7 @@ speakers:
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # GxP compliance and data science career pathways discussion
 
 > Recorded 2026-09-16 at 1237 via Plaud. 18:06.

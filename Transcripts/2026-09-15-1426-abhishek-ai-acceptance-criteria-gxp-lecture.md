@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T14:26:38-04:00
 duration_seconds: 2609
@@ -15,7 +16,7 @@ session: "Defining Acceptance Criteria for AI Validation (day one, 2:30-3:10)"
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Abhishek Bachchan on AI acceptance criteria in GxP-regulated systems
 
 > Recorded 2026-09-15 at 1426 via Plaud. 43:29.

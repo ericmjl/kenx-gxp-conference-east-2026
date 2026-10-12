@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T16:12:49-04:00
 duration_seconds: 2496
@@ -16,7 +17,7 @@ session: "From Installation to Validation: Testing Local AI Against GxP Requirem
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Local LLMs for GxP audit trail analysis lecture
 
 > Recorded 2026-09-16 at 1612 via Plaud. 41:36.

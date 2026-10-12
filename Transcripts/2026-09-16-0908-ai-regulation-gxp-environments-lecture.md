@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T09:08:42-04:00
 duration_seconds: 1397
@@ -12,7 +13,7 @@ session: "Align Intelligent Systems with FDA, EMA, and Annex 11/22 Expectations 
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Gaurav Walia lecture on AI regulation in GxP environments
 
 > Recorded 2026-09-16 at 0908 via Plaud. 23:17.

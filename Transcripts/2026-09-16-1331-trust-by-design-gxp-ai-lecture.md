@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T13:31:40-04:00
 duration_seconds: 2301
@@ -16,7 +17,7 @@ session: "Establish Continuous Validation Through Real-time Monitoring (day two,
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Trust by Design lecture on the AI trust paradox in GxP
 
 > Recorded 2026-09-16 at 1331 via Plaud. 38:21.

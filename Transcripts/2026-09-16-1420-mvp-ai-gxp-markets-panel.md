@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T14:20:50-04:00
 duration_seconds: 2607
@@ -23,7 +24,7 @@ session: "Minimum Viable Product (MVP) for AI in GxP (day two, 2:20-3:00)"
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Panel on MVP, AI, and GxP-regulated markets
 
 > Recorded 2026-09-16 at 1420 via Plaud. 43:27.

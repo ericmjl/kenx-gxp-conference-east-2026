@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T10:10:32-04:00
 duration_seconds: 1762
@@ -15,7 +16,7 @@ session: "Using AI to Modernize Internal Audits and Document Review (day two, 10
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # AI-enabled internal audit lecture on RADAR and Part 11 assessment
 
 > Recorded 2026-09-16 at 1010 via Plaud. 29:22.

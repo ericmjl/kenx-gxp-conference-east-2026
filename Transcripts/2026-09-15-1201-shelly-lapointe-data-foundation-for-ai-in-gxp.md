@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T12:01:42-04:00
 duration_seconds: 1624
@@ -15,7 +16,7 @@ session: "Building a Scalable, Governable Data Estate for AI (day one, 12:00-12:
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Shelly LaPointe on the data foundation for AI in GxP environments
 
 > Recorded 2026-09-15 at 1201 via Plaud. 27:04.

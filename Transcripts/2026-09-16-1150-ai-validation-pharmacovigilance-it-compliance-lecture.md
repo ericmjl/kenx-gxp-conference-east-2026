@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T11:50:15-04:00
 duration_seconds: 2054
@@ -14,7 +15,7 @@ session: "AI GxP Practice: What's Working, What's Not, and What We Should Do Dif
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Pharmacovigilance and IT compliance AI validation lecture
 
 > Recorded 2026-09-16 at 1150 via Plaud. 34:14.

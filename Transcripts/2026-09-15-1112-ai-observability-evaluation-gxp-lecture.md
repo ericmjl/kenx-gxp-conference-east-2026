@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T11:12:05-04:00
 duration_seconds: 2445
@@ -21,7 +22,7 @@ session: "Trust Is Not a Framework: Building Observable, Evaluated AI Systems in
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 <!-- markdownlint-disable MD033 MD024 -->
 # GxP lecture on AI observability, evaluation, and the LLM-as-judge
 

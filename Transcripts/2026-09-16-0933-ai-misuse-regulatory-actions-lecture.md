@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T09:33:37-04:00
 duration_seconds: 1572
@@ -16,7 +17,7 @@ session: "Expert panel discussion: AI, digital transformation, and the future of
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # AI misuse risks and regulatory actions lecture
 
 > Recorded 2026-09-16 at 0933 via Plaud. 26:12.

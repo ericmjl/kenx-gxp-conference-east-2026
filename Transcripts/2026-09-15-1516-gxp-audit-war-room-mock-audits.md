@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T15:16:44-04:00
 duration_seconds: 402
@@ -13,7 +14,7 @@ speakers:
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Eric Ma and an audit practitioner on war rooms, scribes, and mock audits
 
 > Recorded 2026-09-15 at 1516 via Plaud. 06:42.

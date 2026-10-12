@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T17:02:51-04:00
 duration_seconds: 2993
@@ -12,7 +13,7 @@ speakers:
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Gaurav Walia on AI validation and governance in life sciences manufacturing
 
 > Recorded 2026-09-15 at 1702 via Plaud. 49:53.

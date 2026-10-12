@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T15:21:09-04:00
 duration_seconds: 1986
@@ -15,7 +16,7 @@ session: "Strengthening AI Systems with Built-In Cybersecurity and Access Contro
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Protection by design lecture on quality and security co-design, part 1
 
 > Recorded 2026-09-16 at 1521 via Plaud. 33:06.

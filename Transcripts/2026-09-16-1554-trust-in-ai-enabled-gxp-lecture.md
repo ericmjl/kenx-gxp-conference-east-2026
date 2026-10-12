@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T15:54:45-04:00
 duration_seconds: 804
@@ -16,7 +17,7 @@ session: "Strengthening AI Systems with Built-In Cybersecurity and Access Contro
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # Trust in AI-enabled GxP environments lecture, part 2
 
 > Recorded 2026-09-16 at 1554 via Plaud. 13:24.

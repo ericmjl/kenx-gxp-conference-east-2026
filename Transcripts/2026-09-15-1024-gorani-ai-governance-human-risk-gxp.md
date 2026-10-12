@@ -1,3 +1,4 @@
+---
 date: 2026-09-15
 recorded_at: 2026-09-15T10:24:37-04:00
 duration_seconds: 2652
@@ -16,7 +17,7 @@ session: "Reducing Human Risk in GxP: Building Inspection-Ready AI Systems (day 
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 <!-- markdownlint-disable MD033 MD024 -->
 # Bharanitharan Rajendran on defensible AI governance and human risk in GxP
 

@@ -1,3 +1,4 @@
+---
 date: 2026-09-16
 recorded_at: 2026-09-16T10:50:00-04:00
 duration_seconds: 1002
@@ -12,7 +13,7 @@ speakers:
 tags:
   - kenx-gxp-east-2026
   - transcript
-
+---
 # GxP validation platform consultation with a vendor
 
 > Recorded 2026-09-16 at 1050 via Plaud. 16:42.
