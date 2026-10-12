@@ -10,7 +10,7 @@ Maps of Content/                 six MOCs categorizing every transcript
 Transcripts/                     23 session notes: summary, AI notes, highlights, verbatim transcript
 Evergreen Notes/                 35 claim-titled distillations, each citing its source session
 Resources/                       the official agenda compendium PDF
-```text
+```
 
 ## Reading paths
 
