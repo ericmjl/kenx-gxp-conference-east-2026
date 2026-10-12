@@ -1,0 +1,19 @@
+README.md
+  s_491254b3b36193::t_37638ea85011bd 13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b84774f8e2497c216dacdb8833e9444061d8ea4b",
+  "prompts": {},
+  "sessions": {
+    "s_491254b3b36193": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a13026-8d84-704d-82b1-cc280db0ca62",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Eric Ma <ericmajinglong@gmail.com>"
+    }
+  }
+}
