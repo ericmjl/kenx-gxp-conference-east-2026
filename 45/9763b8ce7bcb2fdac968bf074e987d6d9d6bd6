@@ -1,0 +1,158 @@
+"Evergreen Notes/An AI system in GxP must be able to answer unable to verify.md"
+  s_491254b3b36193::t_597f2168861d0f 1-22
+"Evergreen Notes/The wording of an intended use statement sets the regulatory burden.md"
+  s_491254b3b36193::t_3429d111ff380e 1-23
+"Evergreen Notes/Absence problems are harder to detect than presence problems.md"
+  s_491254b3b36193::t_765353a792fe56 1-22
+.gitignore
+  s_491254b3b36193::t_7a89a6a0696a44 1-5
+README.md
+  s_491254b3b36193::t_ede866027e5cc3 1-30
+"Evergreen Notes/Bounded inputs make AI validation tractable.md"
+  s_491254b3b36193::t_ac28136b70e52d 1-22
+"Maps of Content/Strategy Scaling and Product MOC.md"
+  s_491254b3b36193::t_b3f5e63f870f4e 1-31
+"Evergreen Notes/Centralize evaluation when every AI pairing carries its own KPIs.md"
+  s_491254b3b36193::t_358f8ca087067c 1-22
+"Evergreen Notes/In the GxP control loop, AI acts, humans decide, and the system remembers.md"
+  s_491254b3b36193::t_3b4aeea20a1787 1-22
+"Evergreen Notes/Grounding an LLM in the regulatory corpus yields defensible, novel acceptance criteria.md"
+  s_491254b3b36193::t_ff053445188e25 1-22
+"Evergreen Notes/A golden test set must include unhappy paths.md"
+  s_491254b3b36193::t_45c42bb71f828f 1-22
+"Evergreen Notes/Local models trade capability for control.md"
+  s_491254b3b36193::t_a06861d57d18a2 1-22
+"Evergreen Notes/GxP documentation builds institutional trust on behalf of patients.md"
+  s_491254b3b36193::t_fb0217d818d93f 1-22
+Home.md
+  s_491254b3b36193::t_456f6130f29213 1-35
+"Evergreen Notes/Assuming humans will follow SOPs is hope, not control.md"
+  s_491254b3b36193::t_8cbb2fc1206234 1-22
+"Evergreen Notes/In GxP markets, the MVP is the customer's intended use.md"
+  s_491254b3b36193::t_853cc2be33ba9c 1-22
+"Maps of Content/Data Foundations and Audit Trails MOC.md"
+  s_491254b3b36193::t_1cdb00122e3d11 1-32
+"Evergreen Notes/Regulators are becoming AI users themselves.md"
+  s_491254b3b36193::t_ed280a1d590192 1-22
+"Evergreen Notes/Observability and evaluation answer different questions about an AI system.md"
+  s_491254b3b36193::t_e577ece84d9061 1-27
+"Evergreen Notes/Validate what you can, verify the rest.md"
+  s_491254b3b36193::t_b1e0594857d062 1-22
+"Maps of Content/Conference Agenda MOC.md"
+  s_491254b3b36193::t_816b517f4ce831 1-49
+"Maps of Content/Governance Risk and Human Factors MOC.md"
+  s_491254b3b36193::t_7f5264589cb965 1-46
+.obsidian/app.json
+  s_491254b3b36193::t_08a256c79c574d 1-8
+"Evergreen Notes/AI validation evidence has a shelf life.md"
+  s_491254b3b36193::t_935fedc51f2e01 1-22
+"Evergreen Notes/Tool-driven risk assessment beats debate because owners dilute their own ratings.md"
+  s_491254b3b36193::t_c0ab2512aa37f8 1-22
+"Evergreen Notes/Compliance controls belong in the product from inception.md"
+  s_491254b3b36193::t_8669bf0d38898a 1-22
+"Evergreen Notes/Never guess in an inspection; say you will double check.md"
+  s_491254b3b36193::t_d9d4a93bb6f2cc 1-22
+"Evergreen Notes/One governed dataset should serve many consumers.md"
+  s_491254b3b36193::t_4d30cbdb48e6ce 1-26
+"Maps of Content/Eric's Field Notes MOC.md"
+  s_491254b3b36193::t_c2f43ecb4ab6e4 1-39
+"Evergreen Notes/A security failure that changes a validated outcome is a quality failure.md"
+  s_491254b3b36193::t_4bb56c03cf3a67 1-22
+.markdownlint.json
+  s_491254b3b36193::t_4024ea042ce811 1-8
+  s_491254b3b36193::t_fc8375c0fbfa81 9-14
+"Evergreen Notes/Assurance must scale with autonomy.md"
+  s_491254b3b36193::t_dbdff93b2e8a1e 1-23
+"Maps of Content/AI Validation and Acceptance Criteria MOC.md"
+  s_491254b3b36193::t_6486f60ed57bf3 1-50
+"Evergreen Notes/AI development needs its own SOPs, separate from the software development lifecycle.md"
+  s_491254b3b36193::t_8cf746b8c390b1 1-12
+"Evergreen Notes/AI pilots in GxP fail on sequencing, not technology.md"
+  s_491254b3b36193::t_523eaa7500b13b 1-4
+"Evergreen Notes/An LLM judge is a GxP system and needs its own qualification pack.md"
+  s_491254b3b36193::t_c4ff67e5afa2a0 1-4
+"Evergreen Notes/Autonomous agents need their own auditable identities in regulated systems.md"
+  s_491254b3b36193::t_3e2b44cbb00c79 1-4
+"Evergreen Notes/Companies own the accuracy of AI-drafted submissions regardless of the drafting tool.md"
+  s_491254b3b36193::t_9e67a34f2848a2 1-12
+"Evergreen Notes/GxP systems are optimized to be inspection-ready, not insight-ready.md"
+  s_491254b3b36193::t_d479ca70808a50 1-4
+"Evergreen Notes/Human error, not AI failure, drives GxP warning letters.md"
+  s_491254b3b36193::t_a94c148a99d13b 1-4
+"Evergreen Notes/Human verification of AI output must be explicit because document creation no longer carries implicit verification.md"
+  s_491254b3b36193::t_0fcdbc9cfafda5 1-12
+"Evergreen Notes/Regulators audit against principles, so size quality rigor to risk.md"
+  s_491254b3b36193::t_dc3ec5689a0b8e 1-13
+"Evergreen Notes/Regulatory inspections verify execution against SOPs, not the existence of documents.md"
+  s_491254b3b36193::t_f13f3d71a4a818 1-4
+"Evergreen Notes/The intended use statement is the master control lever for GxP AI.md"
+  s_491254b3b36193::t_fcb89466552fcd 1-4
+"Evergreen Notes/Validating an AI system in a regulated industry means validating a measurement system.md"
+  s_491254b3b36193::t_8225a3f2e0b5b9 1-4
+"Evergreen Notes/Validation is data, not an event.md"
+  s_491254b3b36193::t_c25421bf4f5957 1-4
+Resources/kenx-ai-in-gxp-east-2026-agenda-compendium.pdf
+  s_491254b3b36193::t_c426cdc420f02f 1-34692
+Transcripts/2026-09-15-0822-bill-morgano-ai-continuous-validation-life-sciences.md
+  s_491254b3b36193::t_5c1fc1668481e1 1-139
+Transcripts/2026-09-15-0909-jory-gonzalez-gxp-ai-panel-poc-hell-roi.md
+  s_491254b3b36193::t_5a80cb1d1863de 1-225
+Transcripts/2026-09-15-1024-gorani-ai-governance-human-risk-gxp.md
+  s_491254b3b36193::t_1fc473f6c11e93 1-178
+Transcripts/2026-09-15-1112-ai-observability-evaluation-gxp-lecture.md
+  s_491254b3b36193::t_db973711cc65cd 1-244
+Transcripts/2026-09-15-1201-shelly-lapointe-data-foundation-for-ai-in-gxp.md
+  s_491254b3b36193::t_6bf27ed0100cbf 1-158
+Transcripts/2026-09-15-1340-kenneth-corley-duran-scaling-ai-in-regulated-industries.md
+  s_491254b3b36193::t_7ca4ea2bb78399 1-301
+Transcripts/2026-09-15-1426-abhishek-ai-acceptance-criteria-gxp-lecture.md
+  s_491254b3b36193::t_4c0d86226cace5 1-193
+Transcripts/2026-09-15-1516-gxp-audit-war-room-mock-audits.md
+  s_491254b3b36193::t_8ad145bb0c4a56 1-116
+Transcripts/2026-09-15-1531-abhishek-llm-acceptance-criteria-regulated-industries.md
+  s_491254b3b36193::t_974afe20f391b5 1-110
+Transcripts/2026-09-15-1611-ben-obrien-intended-use-statements-gxp-ai-lecture.md
+  s_491254b3b36193::t_93eaa5a629c820 1-186
+Transcripts/2026-09-15-1702-gorawali-ai-validation-governance-manufacturing-lecture.md
+  s_491254b3b36193::t_b134e7fd2aceda 1-180
+Transcripts/2026-09-16-0908-ai-regulation-gxp-environments-lecture.md
+  s_491254b3b36193::t_63760eb85cc34f 1-147
+Transcripts/2026-09-16-0933-ai-misuse-regulatory-actions-lecture.md
+  s_491254b3b36193::t_d574769c5b0de8 1-168
+Transcripts/2026-09-16-1010-ai-internal-audit-radar-part11-lecture.md
+  s_491254b3b36193::t_9e461f0dd94dd2 1-223
+Transcripts/2026-09-16-1050-gxp-validation-platform-consultation.md
+  s_491254b3b36193::t_aa92ec2e5a853c 1-173
+Transcripts/2026-09-16-1107-gxp-ai-ml-implementation-framework-lecture.md
+  s_491254b3b36193::t_1411668c324424 1-332
+Transcripts/2026-09-16-1150-ai-validation-pharmacovigilance-it-compliance-lecture.md
+  s_491254b3b36193::t_86ba39fba13258 1-214
+Transcripts/2026-09-16-1237-gxp-compliance-data-science-careers-discussion.md
+  s_491254b3b36193::t_f0e93e443afe5f 1-124
+Transcripts/2026-09-16-1331-trust-by-design-gxp-ai-lecture.md
+  s_491254b3b36193::t_b38e4232d1ef15 1-209
+Transcripts/2026-09-16-1420-mvp-ai-gxp-markets-panel.md
+  s_491254b3b36193::t_8f1f54d6ac0862 1-229
+Transcripts/2026-09-16-1521-ai-protection-by-design-gxp-lecture.md
+  s_491254b3b36193::t_39bb4bd8d74206 1-307
+Transcripts/2026-09-16-1554-trust-in-ai-enabled-gxp-lecture.md
+  s_491254b3b36193::t_776d76e591df3f 1-183
+Transcripts/2026-09-16-1612-local-llms-gxp-audit-trail-lecture.md
+  s_491254b3b36193::t_58f54407b7fbe0 1-243
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "459763b8ce7bcb2fdac968bf074e987d6d9d6bd6",
+  "prompts": {},
+  "sessions": {
+    "s_491254b3b36193": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a13026-8d84-704d-82b1-cc280db0ca62",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Eric Ma <ericmajinglong@gmail.com>"
+    }
+  }
+}
