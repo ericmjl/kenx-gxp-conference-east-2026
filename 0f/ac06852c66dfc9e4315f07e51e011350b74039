@@ -1,0 +1,89 @@
+"Evergreen Notes/AI development needs its own SOPs, separate from the software development lifecycle.md"
+  s_491254b3b36193::t_0ea7a5ab5779c0 1-6
+"Evergreen Notes/AI pilots in GxP fail on sequencing, not technology.md"
+  s_491254b3b36193::t_09341cafd42716 1,6-25
+"Evergreen Notes/An LLM judge is a GxP system and needs its own qualification pack.md"
+  s_491254b3b36193::t_7f8c426adee64e 1,6-25
+"Evergreen Notes/Autonomous agents need their own auditable identities in regulated systems.md"
+  s_491254b3b36193::t_f5eaf327871f25 1,6-22
+"Evergreen Notes/Companies own the accuracy of AI-drafted submissions regardless of the drafting tool.md"
+  s_491254b3b36193::t_622a3191dd05b8 1-6
+"Evergreen Notes/GxP systems are optimized to be inspection-ready, not insight-ready.md"
+  s_491254b3b36193::t_6103642320f73d 1,6-25
+"Evergreen Notes/Human error, not AI failure, drives GxP warning letters.md"
+  s_491254b3b36193::t_b23dfa5a56889d 1,6-26
+"Evergreen Notes/Human verification of AI output must be explicit because document creation no longer carries implicit verification.md"
+  s_491254b3b36193::t_0ff81254a5ff44 1-6
+"Evergreen Notes/Regulators audit against principles, so size quality rigor to risk.md"
+  s_491254b3b36193::t_fcec2006c9b102 1-6
+"Evergreen Notes/Regulatory inspections verify execution against SOPs, not the existence of documents.md"
+  s_491254b3b36193::t_da4cd1eeea1367 1,6-25
+"Evergreen Notes/The intended use statement is the master control lever for GxP AI.md"
+  s_491254b3b36193::t_d15ac0aafec770 1,6-30
+"Evergreen Notes/Validating an AI system in a regulated industry means validating a measurement system.md"
+  s_491254b3b36193::t_e7d831e086670b 1,6-28
+"Evergreen Notes/Validation is data, not an event.md"
+  s_491254b3b36193::t_0b81f66103358a 1,6-26
+Transcripts/2026-09-15-0822-bill-morgano-ai-continuous-validation-life-sciences.md
+  s_491254b3b36193::t_b3c8f9e90c29b8 1,19
+Transcripts/2026-09-15-0909-jory-gonzalez-gxp-ai-panel-poc-hell-roi.md
+  s_491254b3b36193::t_de817938934cd5 1,21
+Transcripts/2026-09-15-1024-gorani-ai-governance-human-risk-gxp.md
+  s_491254b3b36193::t_4b05b91fb4faa5 1,20
+Transcripts/2026-09-15-1112-ai-observability-evaluation-gxp-lecture.md
+  s_491254b3b36193::t_09e0de9a1ee218 1,25
+Transcripts/2026-09-15-1201-shelly-lapointe-data-foundation-for-ai-in-gxp.md
+  s_491254b3b36193::t_3393318d8f766f 1,19
+Transcripts/2026-09-15-1340-kenneth-corley-duran-scaling-ai-in-regulated-industries.md
+  s_491254b3b36193::t_5694de5966bfd1 1,20
+Transcripts/2026-09-15-1426-abhishek-ai-acceptance-criteria-gxp-lecture.md
+  s_491254b3b36193::t_cd595e0f55622c 1,19
+Transcripts/2026-09-15-1516-gxp-audit-war-room-mock-audits.md
+  s_491254b3b36193::t_a726256697f092 1,17
+Transcripts/2026-09-15-1531-abhishek-llm-acceptance-criteria-regulated-industries.md
+  s_491254b3b36193::t_43ccd5b4929215 1,18
+Transcripts/2026-09-15-1611-ben-obrien-intended-use-statements-gxp-ai-lecture.md
+  s_491254b3b36193::t_17204f0c24ea24 1,19
+Transcripts/2026-09-15-1702-gorawali-ai-validation-governance-manufacturing-lecture.md
+  s_491254b3b36193::t_ef26070b73d35c 1,16
+Transcripts/2026-09-16-0908-ai-regulation-gxp-environments-lecture.md
+  s_491254b3b36193::t_79a2695b1364f9 1,16
+Transcripts/2026-09-16-0933-ai-misuse-regulatory-actions-lecture.md
+  s_491254b3b36193::t_a4cb67b6b1fc9c 1,20
+Transcripts/2026-09-16-1010-ai-internal-audit-radar-part11-lecture.md
+  s_491254b3b36193::t_d57264a6221666 1,19
+Transcripts/2026-09-16-1050-gxp-validation-platform-consultation.md
+  s_491254b3b36193::t_9ce10c080ea0b2 1,16
+Transcripts/2026-09-16-1107-gxp-ai-ml-implementation-framework-lecture.md
+  s_491254b3b36193::t_b7af311b599ee4 1,18
+Transcripts/2026-09-16-1150-ai-validation-pharmacovigilance-it-compliance-lecture.md
+  s_491254b3b36193::t_1950c998063260 1,18
+Transcripts/2026-09-16-1237-gxp-compliance-data-science-careers-discussion.md
+  s_491254b3b36193::t_57232397e87352 1,16
+Transcripts/2026-09-16-1331-trust-by-design-gxp-ai-lecture.md
+  s_491254b3b36193::t_f05573fee72c8f 1,20
+Transcripts/2026-09-16-1420-mvp-ai-gxp-markets-panel.md
+  s_491254b3b36193::t_38b06727ee33ee 1,27
+Transcripts/2026-09-16-1521-ai-protection-by-design-gxp-lecture.md
+  s_491254b3b36193::t_658de6ec66bee7 1,19
+Transcripts/2026-09-16-1554-trust-in-ai-enabled-gxp-lecture.md
+  s_491254b3b36193::t_118273ff313eb4 1,20
+Transcripts/2026-09-16-1612-local-llms-gxp-audit-trail-lecture.md
+  s_491254b3b36193::t_b6e36d5b91afbc 1,20
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0fac06852c66dfc9e4315f07e51e011350b74039",
+  "prompts": {},
+  "sessions": {
+    "s_491254b3b36193": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a13026-8d84-704d-82b1-cc280db0ca62",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "Eric Ma <ericmajinglong@gmail.com>"
+    }
+  }
+}
