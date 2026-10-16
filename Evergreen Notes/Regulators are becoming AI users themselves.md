@@ -13,10 +13,11 @@ The FDA uses its Elsa LLM for submission review; the EMA qualified its first AI 
 
 ## The asymmetry has a direction
 
-The lecturer's through-line: the FDA is the forward thinker while European bodies stay conservative, with Annex 22 sliding to 2027 after an industry delegation spent a day presenting use cases followed by seven hours of regulator questions. The misuse lecture closes the loop: "you cannot bring a knife to a gunfight." Companies drafting AI-assisted inspection responses are answering reviewers who run AI on their end.
+The lecturer's through-line: the FDA is the forward thinker while European bodies stay conservative, with Annex 22 sliding to 2027 after an industry delegation spent a day presenting use cases followed by seven hours of regulator questions. The misuse lecture closes the loop: "you cannot bring a knife to a gunfight." Companies drafting AI-assisted inspection responses are answering reviewers who run AI on their end, which is why [[Companies own the accuracy of AI-drafted submissions regardless of the drafting tool]] does not transfer with the drafting tool. The same capability-versus-control tension that [[Local models trade capability for control]] names now sits on both sides of the inspection. [[Regulators audit against principles, so size quality rigor to risk]] still holds: their tools do not replace the company's proof, they change how fast the proof gets read.
 
 ## Related
 
 - [[Governance Risk and Human Factors MOC]]
 - [[Companies own the accuracy of AI-drafted submissions regardless of the drafting tool]]
 - [[Regulators audit against principles, so size quality rigor to risk]]
+- [[Local models trade capability for control]]

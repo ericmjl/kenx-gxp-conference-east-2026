@@ -13,10 +13,11 @@ A cyber event can be a quality event. Quality and security are asking the same q
 
 ## The AI-expanded control surface
 
-Agent privilege misuse, vendor access, prompt changes outside change control, data tampering, undetected model changes, training drift, audit-log gaps, with excess permissions named as the biggest current problem. Her four trust checks: the system works as intended, unauthorized users cannot act, records, prompts, and models cannot change unnoticed, and monitoring runs continuously. The closing maxim: quality builds confidence, security sustains trust; test trust, not just functionality. Her S.H.A.R.E. tabletop (scope, name failures, align shared controls with named owners, reuse evidence, exercise failure) makes the collaboration concrete.
+Agent privilege misuse, vendor access, prompt changes outside change control, data tampering, undetected model changes, training drift, audit-log gaps, with excess permissions named as the biggest current problem. That is why [[Autonomous agents need their own auditable identities in regulated systems]]: without a named, scoped actor, privilege misuse has no attributable trail. Her four trust checks: the system works as intended, unauthorized users cannot act, records, prompts, and models cannot change unnoticed, and monitoring runs continuously. The closing maxim: quality builds confidence, security sustains trust; test trust, not just functionality. Her S.H.A.R.E. tabletop (scope, name failures, align shared controls with named owners, reuse evidence, exercise failure) makes the collaboration concrete. Those shared controls only hold if [[Compliance controls belong in the product from inception]], and if a changed outcome still has an attributable human decision in [[In the GxP control loop, AI acts, humans decide, and the system remembers]].
 
 ## Related
 
 - [[Governance Risk and Human Factors MOC]]
 - [[Compliance controls belong in the product from inception]]
 - [[Autonomous agents need their own auditable identities in regulated systems]]
+- [[In the GxP control loop, AI acts, humans decide, and the system remembers]]

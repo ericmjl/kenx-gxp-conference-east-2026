@@ -13,7 +13,7 @@ Induced from Ben O'Brien's intended-use lecture at the KENX AI in GxP East 2026 
 
 ## Wording moves the auditable surface area
 
-Narrow intended use shrinks everything downstream: risk classification, testing strategy, monitoring complexity, and inspection scope. A rewording can also flip which metrics matter, shifting the implementation from precision-tuned to recall-tuned in one sentence. The claim from the regulatory-classification side agrees: intended use, not the marketing name, determines classification.
+Narrow intended use shrinks everything downstream: risk classification, testing strategy, monitoring complexity, and inspection scope. A rewording can also flip which metrics matter, shifting the implementation from precision-tuned to recall-tuned in one sentence. The claim from the regulatory-classification side agrees: intended use, not the marketing name, determines classification. This is the wording surface of [[The intended use statement is the master control lever for GxP AI]]; [[Bounded inputs make AI validation tractable]] is the same shrink applied to the data box; and [[Assurance must scale with autonomy]] is the same shrink applied to the output rung. For a vendor, [[In GxP markets, the MVP is the customer's intended use]] means this sentence is the product.
 
 ## Related
 
@@ -21,3 +21,4 @@ Narrow intended use shrinks everything downstream: risk classification, testing 
 - [[The intended use statement is the master control lever for GxP AI]]
 - [[Bounded inputs make AI validation tractable]]
 - [[In GxP markets, the MVP is the customer's intended use]]
+- [[Assurance must scale with autonomy]]

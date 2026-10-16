@@ -13,10 +13,13 @@ The moment autonomous agents touch regulated data, shared service accounts and b
 
 ## Why identity is the enforcement point for everything else
 
-Named agent identity is what makes the rest of the GxP AI stack auditable: ALCOA+ trail entries need an attributable actor, human oversight gates need to know which agent acted, and requalification triggers need to know which system touched which data. Without agent identity, "human-in-the-loop" and "audit trail" both degrade to prompts about prompts. The general principle echoes Access control on wikis belongs in the directory, not the model: enforcement belongs in the directory and the access tier, not in the model's good behavior.
+Named agent identity is what makes the rest of the GxP AI stack auditable: ALCOA+ trail entries need an attributable actor, human oversight gates need to know which agent acted, and requalification triggers need to know which system touched which data. Without agent identity, "human-in-the-loop" and "audit trail" both degrade to prompts about prompts. [[In the GxP control loop, AI acts, humans decide, and the system remembers]] cannot remember an actor the directory never named, and [[A security failure that changes a validated outcome is a quality failure]] starts as excess permissions on a shared account. The general principle echoes Access control on wikis belongs in the directory, not the model: enforcement belongs in the directory and the access tier, not in the model's good behavior. Those identities then sit inside [[One governed dataset should serve many consumers]], and they matter because [[GxP systems are optimized to be inspection-ready, not insight-ready]] until every consumer, including an agent, is attributable.
 
 ## Related
 
 - [[Home]]
 - [[GxP systems are optimized to be inspection-ready, not insight-ready]]
 - Institutional data rules gate LLM tool adoption
+- [[In the GxP control loop, AI acts, humans decide, and the system remembers]]
+- [[A security failure that changes a validated outcome is a quality failure]]
+- [[One governed dataset should serve many consumers]]

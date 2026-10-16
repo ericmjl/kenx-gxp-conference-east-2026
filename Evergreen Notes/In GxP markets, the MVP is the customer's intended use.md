@@ -13,10 +13,12 @@ The panel's consensus definition: the MVP is the customer's intended use, and AI
 
 ## What it means for building
 
-Compliance in the product from inception (see its own note), risk assessment driven by tools rather than diluted rooms, and emerging MVP expectations: AI-native interactions, embedded change management with automated change-boundary logs, headless architectures, accessibility documentation, and a drift toward continuous validation. The takeaway for anyone shipping AI into pharma: you are not shipping a model, you are shipping the first draft of someone else's intended use statement.
+[[Compliance controls belong in the product from inception]], [[Tool-driven risk assessment beats debate because owners dilute their own ratings]], and emerging MVP expectations: AI-native interactions, embedded change management with automated change-boundary logs, headless architectures, accessibility documentation, and a drift toward continuous validation. The takeaway for anyone shipping AI into pharma: you are not shipping a model, you are shipping the first draft of someone else's intended use statement. That draft is why [[The intended use statement is the master control lever for GxP AI]], and why [[The wording of an intended use statement sets the regulatory burden]] is a product decision, not a later regulatory rewrite.
 
 ## Related
 
 - [[Strategy Scaling and Product MOC]]
 - [[The intended use statement is the master control lever for GxP AI]]
 - [[Compliance controls belong in the product from inception]]
+- [[Tool-driven risk assessment beats debate because owners dilute their own ratings]]
+- [[The wording of an intended use statement sets the regulatory burden]]

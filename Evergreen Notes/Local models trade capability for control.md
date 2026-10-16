@@ -13,10 +13,11 @@ One hundred thirteen experiments, five open-weight models, 4,898 synthetic audit
 
 ## The assurance structure that makes either defensible
 
-A three-step assurance case: what ran, how it performed, how it stays controlled. A four-layer validation model: input and preparation, retrieval and RAG, model and inference runtime down to the Ollama version, and tools plus human review. A deterministic evaluation pipeline (regex scoring rather than LLM-judged) keeps the measurer out of the measured. The open strategic choices, named honestly: how human review complements rather than duplicates, the control-versus-capability call, and what counts as good enough.
+A three-step assurance case: what ran, how it performed, how it stays controlled. A four-layer validation model: input and preparation, retrieval and RAG, model and inference runtime down to the Ollama version, and tools plus human review. A deterministic evaluation pipeline (regex scoring rather than LLM-judged) keeps the measurer out of the measured; that is a deliberate refusal to let [[An LLM judge is a GxP system and needs its own qualification pack]] grade the same stack it would have to defend. The open strategic choices, named honestly: how human review complements rather than duplicates, the control-versus-capability call, and what counts as good enough. The capability side of the trade is where [[Absence problems are harder to detect than presence problems]] concentrated, and the same capability-versus-control tension shows up when [[Regulators are becoming AI users themselves]] with cloud tools that the inspected company may not be allowed to run.
 
 ## Related
 
 - [[Data Foundations and Audit Trails MOC]]
 - [[Absence problems are harder to detect than presence problems]]
 - [[Regulators are becoming AI users themselves]]
+- [[An LLM judge is a GxP system and needs its own qualification pack]]
