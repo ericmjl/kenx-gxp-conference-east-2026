@@ -9,14 +9,16 @@ Induced from Abhishek Bachchan's acceptance-criteria lecture at the KENX AI in G
 
 ## Triggers that expire a validated state
 
-A model or provider change, a prompt tweak, corpus growth, retrieval or chunking parameter changes, a context-of-use shift, or simply elapsed time. Any one of them forces re-measurement, which makes validation a continuous loop rather than the one-pass V model that assumes a validated state persists without action.
+A model or provider change, a prompt tweak, corpus growth, retrieval or chunking parameter changes, a context-of-use shift, or simply elapsed time. Any one of them forces re-measurement, which makes validation a continuous loop rather than the one-pass V model that assumes a validated state persists without action. This is the operational form of [[Validation is data, not an event]], and it is why [[Validating an AI system in a regulated industry means validating a measurement system]] treats every validated state as having an expiry date.
 
 ## Evidence is a live database, not a PDF
 
-The inspection-ready package is a dashboard: labeled test sets with rationales, dated run records, per-call provenance (requested versus served model, prompt hashes, token counts), grounding exception logs, stored outputs, human dispositions, threshold rationale, and requalification records. Screenshots age; queries against the record do not.
+The inspection-ready package is a dashboard: labeled test sets with rationales, dated run records, per-call provenance (requested versus served model, prompt hashes, token counts), grounding exception logs, stored outputs, human dispositions, threshold rationale, and requalification records. Screenshots age; queries against the record do not. [[Observability and evaluation answer different questions about an AI system]] supplies the two streams that dashboard has to keep current, and [[Centralize evaluation when every AI pairing carries its own KPIs]] is how those streams stay inspectable when every pairing ages on its own clock.
 
 ## Related
 
 - [[AI Validation and Acceptance Criteria MOC]]
 - [[Validation is data, not an event]]
 - [[Validating an AI system in a regulated industry means validating a measurement system]]
+- [[Observability and evaluation answer different questions about an AI system]]
+- [[Centralize evaluation when every AI pairing carries its own KPIs]]

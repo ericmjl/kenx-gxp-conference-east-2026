@@ -13,10 +13,11 @@ Every LLM paired with an application carries distinct KPIs, and in most organiza
 
 ## What centralization buys in a regulated setting
 
-One place where an inspector (or a quality lead) can see what every AI touching GxP is measured against, when it was last measured, and what drifted. It is the same instinct as one governed dataset serving many consumers: build the evaluation estate once, run it continuously, and let each pairing register its metrics into the shared system instead of owning a private one.
+One place where an inspector (or a quality lead) can see what every AI touching GxP is measured against, when it was last measured, and what drifted. It is the same instinct as [[One governed dataset should serve many consumers]]: build the evaluation estate once, run it continuously, and let each pairing register its metrics into the shared system instead of owning a private one. That continuous run is how you notice that [[AI validation evidence has a shelf life]], and it keeps [[Observability and evaluation answer different questions about an AI system]] from living in two unconnected dashboards.
 
 ## Related
 
 - [[Strategy Scaling and Product MOC]]
 - [[AI validation evidence has a shelf life]]
 - [[Observability and evaluation answer different questions about an AI system]]
+- [[One governed dataset should serve many consumers]]

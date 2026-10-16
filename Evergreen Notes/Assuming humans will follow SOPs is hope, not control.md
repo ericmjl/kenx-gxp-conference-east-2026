@@ -13,10 +13,13 @@ Failure to follow written procedures (21 CFR 211.22(d)) was highlighted 184 time
 
 ## Root-causing everything to human error, then retraining, is the failure mode
 
-His six categories of human risk: documentation, investigation (where retraining is the reflex answer), change-control impact assessment, quality oversight, data integrity (shared logins, backdated records, inspection war rooms), and validation treated as a one-time event. Controls that assume fallibility, like named human approval gates and system-enforced review, hold; hope does not. The enforcement stories agree: AI-generated SOPs went unreviewed at Purolea, and the answer to the inspector was "AI did not tell us."
+His six categories of human risk: documentation, investigation (where retraining is the reflex answer), change-control impact assessment, quality oversight, data integrity (shared logins, backdated records, inspection war rooms), and validation treated as a one-time event. Treating validation as an event is the failure mode [[Validation is data, not an event]] names. Controls that assume fallibility, like named human approval gates and system-enforced review, hold; hope does not. That named gate is [[Human-in-the-loop must be a named hard gate, not rubber-stamp oversight]], and the loop around it is [[In the GxP control loop, AI acts, humans decide, and the system remembers]]. The enforcement stories agree: AI-generated SOPs went unreviewed at Purolea, and the answer to the inspector was "AI did not tell us." [[Human error, not AI failure, drives GxP warning letters]] is the citation record behind that answer. [[Regulatory inspections verify execution against SOPs, not the existence of documents]] is what hope looks like in the inspection room: the SOP exists, the execution does not.
 
 ## Related
 
 - [[Governance Risk and Human Factors MOC]]
 - [[Human error, not AI failure, drives GxP warning letters]]
 - [[In the GxP control loop, AI acts, humans decide, and the system remembers]]
+- [[Validation is data, not an event]]
+- [[Human-in-the-loop must be a named hard gate, not rubber-stamp oversight]]
+- [[Regulatory inspections verify execution against SOPs, not the existence of documents]]

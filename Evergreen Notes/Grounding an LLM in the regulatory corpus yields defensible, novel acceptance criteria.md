@@ -13,10 +13,12 @@ Ingest every regulatory document you work with, then spend a long session prompt
 
 ## Why it matters for regulated writing
 
-Facing the pile of documents a regulated environment demands, the hard part is starting, and templated statements unblock the start. Eric called it the most practical talk of the day for exactly that reason. The caveat Abhishek volunteered alongside: his six-month MIT class on LLMs was already six months out of date by the end, so the practice needs continuous refreshing even as the method holds.
+Facing the pile of documents a regulated environment demands, the hard part is starting, and templated statements unblock the start. Eric called it the most practical talk of the day for exactly that reason. Those statements still have to name a population and a threshold; this is how you draft the criteria inside [[Validating an AI system in a regulated industry means validating a measurement system]], and they still need [[A golden test set must include unhappy paths]] or the novelty is only verbal. The caveat Abhishek volunteered alongside: his six-month MIT class on LLMs was already six months out of date by the end, so the practice needs continuous refreshing even as the method holds. That refresh cycle is the writing-side version of [[AI validation evidence has a shelf life]].
 
 ## Related
 
 - [[AI Validation and Acceptance Criteria MOC]]
 - [[Validating an AI system in a regulated industry means validating a measurement system]]
 - [[Eric's Field Notes MOC]]
+- [[A golden test set must include unhappy paths]]
+- [[AI validation evidence has a shelf life]]

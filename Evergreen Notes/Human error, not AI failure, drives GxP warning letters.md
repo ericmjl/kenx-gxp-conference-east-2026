@@ -17,10 +17,14 @@ The Purolea warning letter of April 2, 2026, the first AI-related CGMP citation,
 
 ## Defensible AI control is human-centric design
 
-Five properties make an AI control defensible: documented intended use including its limits, risk-proportionate continuous validation, ALCOA+ audit trails extended to the AI layer (user, model and version, inputs, outputs, justification, confidence), named humans at every approval gate rather than rubber-stamp human-in-the-loop, and lifecycle monitoring. The governance plan fits in three steps: inventory all AI including shadow AI, enforce a human gate before anything enters a GxP record, and treat validation as a continuous lifecycle. The regulatory convergence of 2025 and 2026, the FDA AI credibility guidance, the ISPE GAMP AI guide, the EU GMP Annex 22 draft, and the joint FDA/EMA principles, means the excuses are gone. As Bharanitharan Rajendran closed: untrained humans fail inspections, and untrained AI fails patients.
+Five properties make an AI control defensible: documented intended use including its limits, risk-proportionate continuous validation, ALCOA+ audit trails extended to the AI layer (user, model and version, inputs, outputs, justification, confidence), named humans at every approval gate rather than rubber-stamp human-in-the-loop, and lifecycle monitoring. Those named humans are [[Human-in-the-loop must be a named hard gate, not rubber-stamp oversight]]; the five properties are restated as [[In the GxP control loop, AI acts, humans decide, and the system remembers]]. The governance plan fits in three steps: inventory all AI including shadow AI, enforce a human gate before anything enters a GxP record, and treat validation as a continuous lifecycle. Treating validation as a lifecycle is [[Validation is data, not an event]], and the measurement form of that lifecycle is [[Validating an AI system in a regulated industry means validating a measurement system]]. The regulatory convergence of 2025 and 2026, the FDA AI credibility guidance, the ISPE GAMP AI guide, the EU GMP Annex 22 draft, and the joint FDA/EMA principles, means the excuses are gone. As Bharanitharan Rajendran closed: untrained humans fail inspections, and untrained AI fails patients. [[Assuming humans will follow SOPs is hope, not control]] is the same citation engine, and [[Companies own the accuracy of AI-drafted submissions regardless of the drafting tool]] is the same accountability when the document was drafted by a model.
 
 ## Related
 
 - [[Home]]
 - [[Validating an AI system in a regulated industry means validating a measurement system]]
 - [[Validation is data, not an event]]
+- [[Human-in-the-loop must be a named hard gate, not rubber-stamp oversight]]
+- [[In the GxP control loop, AI acts, humans decide, and the system remembers]]
+- [[Assuming humans will follow SOPs is hope, not control]]
+- [[Companies own the accuracy of AI-drafted submissions regardless of the drafting tool]]

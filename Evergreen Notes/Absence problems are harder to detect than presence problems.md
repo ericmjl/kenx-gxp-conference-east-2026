@@ -13,10 +13,11 @@ His ten audit-trail problem types split into presence problems (something anomal
 
 ## Why the frontier gap concentrates here
 
-Completeness problems, the purest absence cases, were caught reliably only by frontier cloud models in his comparison. That lands the local-versus-cloud decision on the hardest cases: absence detection is exactly where capability is scarcest locally, and exactly where an audit cares most. Any audit-trail review design should assume absence needs its own evidence strategy, not a bigger model prompt.
+Completeness problems, the purest absence cases, were caught reliably only by frontier cloud models in his comparison. That lands the local-versus-cloud decision on the hardest cases: absence detection is exactly where capability is scarcest locally, and exactly where an audit cares most. [[Local models trade capability for control]] is that trade stated from the same experiments. Any audit-trail review design should assume absence needs its own evidence strategy, not a bigger model prompt. The complementary model behavior is [[An AI system in GxP must be able to answer unable to verify]], and the complementary test design is [[A golden test set must include unhappy paths]]: known-absent items are how you find out the system hid a gap.
 
 ## Related
 
 - [[Data Foundations and Audit Trails MOC]]
 - [[Local models trade capability for control]]
 - [[An AI system in GxP must be able to answer unable to verify]]
+- [[A golden test set must include unhappy paths]]

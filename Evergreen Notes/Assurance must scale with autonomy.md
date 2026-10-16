@@ -13,7 +13,7 @@ Classify each use case by how much it does on its own. An assist drafts; an augm
 
 ## What the ladder changes on the autonomous rung
 
-The intended-use lecture lands the same claim from the output side: advisory outputs shift the burden to proving a trained human is in the loop, while autonomous outputs demand harder confidence scoring, fallback logic, and failure-mode containment for the excursion that will eventually come.
+The intended-use lecture lands the same claim from the output side: advisory outputs shift the burden to proving a trained human is in the loop, while autonomous outputs demand harder confidence scoring, fallback logic, and failure-mode containment for the excursion that will eventually come. That is [[The wording of an intended use statement sets the regulatory burden]] applied to the automate rung, and [[The intended use statement is the master control lever for GxP AI]] is the lever that chooses the rung before the system is built. [[Regulators audit against principles, so size quality rigor to risk]] is the same proportionality stated from the inspection side. The organizational failure mode is still [[AI pilots in GxP fail on sequencing, not technology]]: autonomy gets automated before QA has concurrent ownership of the evidence.
 
 ## Related
 
@@ -21,3 +21,4 @@ The intended-use lecture lands the same claim from the output side: advisory out
 - [[AI pilots in GxP fail on sequencing, not technology]]
 - [[The wording of an intended use statement sets the regulatory burden]]
 - [[Regulators audit against principles, so size quality rigor to risk]]
+- [[The intended use statement is the master control lever for GxP AI]]

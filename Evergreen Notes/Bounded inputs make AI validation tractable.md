@@ -13,10 +13,12 @@ Induced from Ben O'Brien's intended-use lecture at the KENX AI in GxP East 2026 
 
 ## The economics of the box
 
-Unbounded inputs mean proving the model works on every permutation, which stretches a three-month test execution into potentially years, and monitoring everything outside the box you never drew. Bounded inputs shrink execution to months and simplify monitoring to the fixed parameter space. Dropping the domain later has its own cost: an oncology-trained model retargeted elsewhere may find its whole training corpus useless.
+Unbounded inputs mean proving the model works on every permutation, which stretches a three-month test execution into potentially years, and monitoring everything outside the box you never drew. Bounded inputs shrink execution to months and simplify monitoring to the fixed parameter space. That box is the Data Bounding Box pillar of [[The intended use statement is the master control lever for GxP AI]], and narrowing it is how [[The wording of an intended use statement sets the regulatory burden]] becomes a measurable population instead of an open-ended claim. Dropping the domain later has its own cost: an oncology-trained model retargeted elsewhere may find its whole training corpus useless. The validation payoff is that [[Validating an AI system in a regulated industry means validating a measurement system]] can name a population at all, which is also why [[AI development needs its own SOPs, separate from the software development lifecycle]] tells teams to pin the version and bound the inputs in the procedure.
 
 ## Related
 
 - [[AI Validation and Acceptance Criteria MOC]]
 - [[The wording of an intended use statement sets the regulatory burden]]
 - [[Validating an AI system in a regulated industry means validating a measurement system]]
+- [[The intended use statement is the master control lever for GxP AI]]
+- [[AI development needs its own SOPs, separate from the software development lifecycle]]

@@ -9,11 +9,11 @@ Induced from Shelly LaPointe's lecture at the AI in GxP conference ([[2026-09-15
 
 ## The silos exist for auditors, not for questions
 
-Laboratory, manufacturing, and quality systems (LIS, MES, QMS) are built to survive inspections: controlled, documented, and isolated. That optimization is exactly why they fail AI pilots. Every pilot rebuilds its own extraction pipeline over the silos, and each additional AI touching the data multiplies the traceability obligations. AI is only as good as its data foundation, so the data estate, not model choice, is the binding constraint on regulated AI.
+Laboratory, manufacturing, and quality systems (LIS, MES, QMS) are built to survive inspections: controlled, documented, and isolated. That optimization is exactly why they fail AI pilots. Every pilot rebuilds its own extraction pipeline over the silos, and each additional AI touching the data multiplies the traceability obligations. That rebuild loop is one substrate reason [[AI pilots in GxP fail on sequencing, not technology]]. AI is only as good as its data foundation, so the data estate, not model choice, is the binding constraint on regulated AI.
 
 ## Build the estate once, validate once, reuse everywhere
 
-The counter-design is one governed dataset with many consumers: raw, curated, and consumption zones plus a metadata catalog, wrapped in a single GxP validation envelope spanning pipelines, storage, access, and every model or agent that consumes it. ALCOA+ does not change under AI; only its enforcement surface does. Risk-based validation per GAMP 5, applied well, cuts validation cycle time by roughly 35 percent through impact classification, continuous automated testing, automated change control, and reuse of validation evidence.
+The counter-design is [[One governed dataset should serve many consumers]]: raw, curated, and consumption zones plus a metadata catalog, wrapped in a single GxP validation envelope spanning pipelines, storage, access, and every model or agent that consumes it. ALCOA+ does not change under AI; only its enforcement surface does, which is why [[Autonomous agents need their own auditable identities in regulated systems]] become a directory problem rather than a prompt problem. Risk-based validation per GAMP 5, applied well, cuts validation cycle time by roughly 35 percent through impact classification, continuous automated testing, automated change control, and reuse of validation evidence.
 
 ## The roadmap is deliberately unglamorous
 
@@ -23,3 +23,5 @@ This week, a system inventory of data sources and owners (an IT ServiceNow expor
 
 - [[Home]]
 - [[Autonomous agents need their own auditable identities in regulated systems]]
+- [[One governed dataset should serve many consumers]]
+- [[AI pilots in GxP fail on sequencing, not technology]]

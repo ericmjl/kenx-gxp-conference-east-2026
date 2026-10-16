@@ -13,10 +13,13 @@ Room-based risk debates get watered down because nobody wants to own residual ri
 
 ## What stays human
 
-The tool rates; the accountable human still approves. RiskCortex's Expert in the Loop challenges, approves, and stays accountable with every accept-or-reject decision audit-trailed, and their playbook replaces debate with evidence rather than replacing judgment.
+The tool rates; the accountable human still approves. RiskCortex's Expert in the Loop challenges, approves, and stays accountable with every accept-or-reject decision audit-trailed, and their playbook replaces debate with evidence rather than replacing judgment. That remaining human is [[Human-in-the-loop must be a named hard gate, not rubber-stamp oversight]]. Owners diluting their own ratings is another form of [[Assuming humans will follow SOPs is hope, not control]]. The replacement only works if [[Compliance controls belong in the product from inception]], and the right-sized output is how [[Regulators audit against principles, so size quality rigor to risk]] becomes reproducible instead of argued. In a GxP market, [[In GxP markets, the MVP is the customer's intended use]] inherits this same tool-driven rating rather than a diluted room.
 
 ## Related
 
 - [[Governance Risk and Human Factors MOC]]
 - [[Compliance controls belong in the product from inception]]
 - [[Regulators audit against principles, so size quality rigor to risk]]
+- [[Human-in-the-loop must be a named hard gate, not rubber-stamp oversight]]
+- [[Assuming humans will follow SOPs is hope, not control]]
+- [[In GxP markets, the MVP is the customer's intended use]]

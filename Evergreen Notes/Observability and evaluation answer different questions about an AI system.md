@@ -13,11 +13,11 @@ Tracing and telemetry (tokens, cost, error rates), context and lineage tracking 
 
 ## Evaluation is quality-led and answers how good the output was
 
-Correctness, relevance to intended use, SOP policy compliance, and format or schema control. Evaluation-driven deployment bakes both into implementation instead of after go-live: enumerate failure modes across agent, data, and prompt; build a golden set with unhappy paths; start with simple pass/fail graders against a risk-justified threshold; hold a regression baseline; run continuously and cluster failures.
+Correctness, relevance to intended use, SOP policy compliance, and format or schema control. Evaluation-driven deployment bakes both into implementation instead of after go-live: enumerate failure modes across agent, data, and prompt; build a golden set with unhappy paths; start with simple pass/fail graders against a risk-justified threshold; hold a regression baseline; run continuously and cluster failures. [[A golden test set must include unhappy paths]] is the population; running continuously is how you notice that [[AI validation evidence has a shelf life]].
 
 ## The two teams can no longer be separate
 
-The lecturer's organizing claim: IT and quality have to operate as one system, and sign-off is always the quality person's decision, never the agent's. Graders layer from code-based (deterministic checks) through model-based to human experts who calibrate the judge up front, then shift to exception review and periodic drift checks.
+The lecturer's organizing claim: IT and quality have to operate as one system, and sign-off is always the quality person's decision, never the agent's. Graders layer from code-based (deterministic checks) through model-based to human experts who calibrate the judge up front, then shift to exception review and periodic drift checks. The model-based layer is [[An LLM judge is a GxP system and needs its own qualification pack]]. Together the two streams are the live form of [[Validation is data, not an event]], and [[Centralize evaluation when every AI pairing carries its own KPIs]] is how they stay in one inspectable place.
 
 ## Related
 
@@ -25,3 +25,5 @@ The lecturer's organizing claim: IT and quality have to operate as one system, a
 - [[An LLM judge is a GxP system and needs its own qualification pack]]
 - [[A golden test set must include unhappy paths]]
 - [[Validation is data, not an event]]
+- [[AI validation evidence has a shelf life]]
+- [[Centralize evaluation when every AI pairing carries its own KPIs]]

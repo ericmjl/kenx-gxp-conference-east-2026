@@ -13,10 +13,12 @@ Audit trails, roles and permissions, and e-signature triggers with re-authentica
 
 ## The validation-side echo
 
-RiskCortex's trust paradox: AI promises speed while GxP demands deterministic, evidenced outcomes, so trust is engineered in from the start rather than bolted on afterward. Their stack builds the same lesson in: playbook, Expert in the Loop, telemetry, semantic risk graph, security controls, four lines of defense. Their LIMS case study ran 75 percent faster validation with zero audit findings.
+RiskCortex's trust paradox: AI promises speed while GxP demands deterministic, evidenced outcomes, so trust is engineered in from the start rather than bolted on afterward. Their stack builds the same lesson in: playbook, Expert in the Loop, telemetry, semantic risk graph, security controls, four lines of defense. That is why [[Tool-driven risk assessment beats debate because owners dilute their own ratings]] has to ship with the product, not arrive as a workshop after the first regulated customer. Their LIMS case study ran 75 percent faster validation with zero audit findings. The same inception rule is why a cyber event that changes a validated outcome is [[A security failure that changes a validated outcome is a quality failure]], why [[In GxP markets, the MVP is the customer's intended use]] cannot defer audit trails, and why [[AI pilots in GxP fail on sequencing, not technology]] when QA is consulted last.
 
 ## Related
 
 - [[Strategy Scaling and Product MOC]]
 - [[Tool-driven risk assessment beats debate because owners dilute their own ratings]]
 - [[A security failure that changes a validated outcome is a quality failure]]
+- [[In GxP markets, the MVP is the customer's intended use]]
+- [[AI pilots in GxP fail on sequencing, not technology]]
