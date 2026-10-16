@@ -37,6 +37,7 @@ Day two:
 - [[Tool-driven risk assessment beats debate because owners dilute their own ratings]]
 - [[A security failure that changes a validated outcome is a quality failure]]
 - [[GxP documentation builds institutional trust on behalf of patients]]
+- [[Human-in-the-loop must be a named hard gate, not rubber-stamp oversight]]
 
 ## Related
 
