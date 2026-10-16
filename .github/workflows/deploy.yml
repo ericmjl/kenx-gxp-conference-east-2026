@@ -1,0 +1,80 @@
+name: Deploy Quartz site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout vault
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Checkout Quartz v4
+        uses: actions/checkout@v4
+        with:
+          repository: jackyzha0/quartz
+          ref: v4.5.2
+          path: .quartz-src
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: .quartz-src/package-lock.json
+
+      - name: Apply Quartz config
+        run: |
+          cp site/quartz.config.ts .quartz-src/quartz.config.ts
+          cp site/quartz.layout.ts .quartz-src/quartz.layout.ts
+
+      - name: Stage vault notes
+        run: python3 site/stage_content.py .quartz-src/content
+
+      - name: Install Quartz dependencies
+        working-directory: .quartz-src
+        run: npm ci
+
+      - name: Build Quartz
+        working-directory: .quartz-src
+        run: npx quartz build
+
+      - name: Add .nojekyll
+        run: touch .quartz-src/public/.nojekyll
+
+      - name: Verify pages, wikilinks, and graph
+        run: python3 site/verify_build.py .quartz-src/public
+
+      - name: Upload GitHub Pages artifact
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .quartz-src/public
+
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

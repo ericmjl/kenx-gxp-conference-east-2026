@@ -3,3 +3,8 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
+.quartz-src/
+site/public/
+node_modules/
+__pycache__/
+.pytest_cache/
