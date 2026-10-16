@@ -28,3 +28,7 @@ Resources/                       the official agenda compendium PDF
 ## Using this repo
 
 Open the folder in [Obsidian](https://obsidian.md) as a vault (wikilinks resolve out of the box). Plain markdown works too; every cross-reference is a standard `[[wikilink]]`, most with display aliases.
+
+## Website
+
+A Quartz v4 static site is generated from the vault (notes are not moved) and deployed by GitHub Actions to [GitHub Pages](https://ericmjl.github.io/kenx-gxp-conference-east-2026/). See `site/README.md` for the local build.
